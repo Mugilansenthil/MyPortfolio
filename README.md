@@ -33,11 +33,4 @@ Portfolio-Website/
 └── README.md           # Project documentation
 
 
----
 
-Let me know if you'd like to:
-- Add a specific project list
-- Include your actual contact details
-- Automatically generate screenshots or GIFs from your site
-
-I'm happy to help finalize everything.
