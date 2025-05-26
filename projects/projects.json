@@ -1,0 +1,29 @@
+[
+  {
+    "name": " Handwriting Recognition System",
+    "desc": "Built a system to convert handwritten text into digital format using deep learning. Built using Python, TensorFlow, OpenCV and NumPy",
+    "image": "Handwriting Recognition system",
+    "links": {
+      "code": "https://github.com/Mugilansenthil/Handwriting_Recognition"
+    }
+  },
+  {
+    "name": "Gold Price Predictions",
+    "desc": "Created a machine learning model to predict gold prices based on historical data. The model involved feature selection, data analysis, and prediction using Python.",
+    "image": "gold-price",
+    "links": {
+      "code": "https://github.com/Mugilansenthil/gold-price-prdiction"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "pro",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  }
+    
+]
