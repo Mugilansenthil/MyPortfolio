@@ -4,7 +4,7 @@
     "desc": "Developed a web-based system to classify freshwater fish species and detect fish diseases using deep learning. Used ResNet50 for classification and SSD MobileNet V2 for disease detection. Integrated with a Flask backend and HTML/JavaScript frontend for real-time prediction and visualization. Achieved ~97.8% accuracy.",
     "image": "Fish Species Classification and Disease Detection"
     "links": {
-      "code": "https://github.com/Mugilansenthil/Handwriting_Recognition"
+      "code": "https://github.com/Mugilansenthil/DISEASE-DETECTION-FOR-FISH-SPECIES"
     }
   {
     "name": " Handwriting Recognition System",
@@ -16,8 +16,9 @@
   },
   {
     "name": "Gold Price Predictions",
-    "desc": "Created a machine learning model to predict gold prices based on historical data. The model involved feature selection, data analysis, and prediction using Python.",
-    "image": "gold-price",
+    "desc": "Built a full-stack web application to predict gold prices using machine learning. Implemented data preprocessing, feature selection, and model training in Python with scikit-learn. Integrated the trained model into a Flask backend and designed a responsive HTML/JavaScript frontend for user input and real-time prediction.",
+    "image": "Gold Price Prediction System"
+
     "links": {
       "code": "https://github.com/Mugilansenthil/gold-price-prdiction"
     }
@@ -29,7 +30,7 @@
     "category": "basicweb",
     "links": {
       "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
+      "code": ""
     }
   }
     
