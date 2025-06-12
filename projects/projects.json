@@ -1,5 +1,12 @@
 [
   {
+    "name": " Disease Detection for Fish Species",
+    "desc": "Developed a web-based system to classify freshwater fish species and detect fish diseases using deep learning. Used ResNet50 for classification and SSD MobileNet V2 for disease detection. Integrated with a Flask backend and HTML/JavaScript frontend for real-time prediction and visualization. Achieved ~97.8% accuracy.",
+    "image": "Fish Species Classification and Disease Detection"
+    "links": {
+      "code": "https://github.com/Mugilansenthil/Handwriting_Recognition"
+    }
+  {
     "name": " Handwriting Recognition System",
     "desc": "Built a system to convert handwritten text into digital format using deep learning. Built using Python, TensorFlow, OpenCV and NumPy",
     "image": "Handwriting Recognition system",
