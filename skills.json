@@ -22,5 +22,54 @@
     {
         "name": "Android",
         "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
-    } 
+    } ,
+    {
+        "name": "Flask",
+        "icon": "https://img.icons8.com/color/48/000000/flask.png"
+    },
+    {
+        "name": "TensorFlow",
+        "icon": "https://img.icons8.com/color/48/000000/tensorflow.png"
+    },
+    {
+        "name": "OpenCV",
+        "icon": "https://img.icons8.com/color/48/000000/opencv.png"
+    },
+    {
+        "name": "NumPy",
+        "icon": "https://img.icons8.com/color/48/000000/numpy.png"
+    },
+    {
+        "name": "scikit-learn",
+        "icon": "https://img.icons8.com/color/48/000000/scikit-learn.png"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/48/000000/pandas.png"
+    },
+    {
+        "name": "Keras",
+        "icon": "https://img.icons8.com/color/48/000000/keras.png"
+    },
+    {
+        "name": "React",
+        "icon": "https://img.icons8.com/color/48/000000/react-native.png"
+    },
+    {
+        "name": "Node.js",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "VS Code",
+        "icon": "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    }
+
 ]
